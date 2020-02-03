@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="loaded_size">40dp</dimen>
+    <dimen name="avatar_size">40dp</dimen>
+    <dimen name="online_size">6dp</dimen>
+</resources>
